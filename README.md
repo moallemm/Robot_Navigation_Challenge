@@ -3,8 +3,9 @@
 ## Project Overview
 This project demonstrates autonomous robot navigation using ROS 2, Gazebo, and Nav2. A TurtleBot3 robot navigates from a start position to a goal while avoiding obstacles in a simulated environment.
 ## Demonstration Video
-[Watch Demonstration Video](assets/Demonstration%20video.mp4)
-
+<video src="assets/Demonstration video.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
 ### Features
 - ROS 2 Jazzy (Ubuntu 24.04) setup
 - Gazebo simulation with TurtleBot3
